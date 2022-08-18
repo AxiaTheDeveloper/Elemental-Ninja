@@ -1,2 +1,3 @@
-# Trying-Things
-Trying something
+# Elemental Ninja
+University Game Project
+
